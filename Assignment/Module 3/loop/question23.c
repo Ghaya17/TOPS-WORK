@@ -5,7 +5,7 @@ int n, rev=0, rem;
 printf("Enter number:");
 scanf("%d", &n);
 int original_num=n;
-for(int i=1; i<=10; i++){
+for(int i=1; i<=4; i++){
        rem=n%10;
        rev=rev*10+rem;
        n/=10;

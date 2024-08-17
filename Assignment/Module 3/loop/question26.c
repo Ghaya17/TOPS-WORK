@@ -14,9 +14,4 @@ printf("The sum of triangular number of %d is :%d", num, sum);
 
 
 
-
-
-
-
-
 }
